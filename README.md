@@ -8,3 +8,7 @@ This is a sample repo for testing commit linting using [Conventional Commits](ht
 5. Now, add message as per conventional commit messgae. e.g `git commit -m "feat: Adding more code lines in index.js."`. It should work.
 
 For more details about conventional commit message, Please refer [this](https://www.conventionalcommits.org/en/v1.0.0/)
+
+# More ...
+1. To run typescript run `npm i -g typescript` , provide `npm` is already install on your workspace
+2. To compile and execute the project run `tsc && node ./dist/index.js`
