@@ -1,3 +1,4 @@
+![Status](https://github.com/dham6983/sample-commit-linting/actions/workflows/commitlint.yml/badge.svg)
 # What is this about
 This is a sample repo for testing commit linting using [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 ## How to test
