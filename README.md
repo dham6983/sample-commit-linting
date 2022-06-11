@@ -11,4 +11,5 @@ For more details about conventional commit message, Please refer [this](https://
 
 # More ...
 1. To run typescript run `npm i -g typescript` , provide `npm` is already install on your workspace
-2. To compile and execute the project run `tsc && node ./dist/index.js`
+2. To compile and execute the project run `tsc && node ./dist/index.js`.
+3. To setup commit linting validation on CI platform using Circle CI , Github Action , Travis CI refer [this](https://commitlint.js.org/#/guides-ci-setup) doc.
