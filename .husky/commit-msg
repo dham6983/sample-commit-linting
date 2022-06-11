@@ -1,4 +1,11 @@
 #!/usr/bin/env sh
 . "$(dirname -- "$0")/_/husky.sh"
 
+set +e
+
 yarn commitlint --edit 
+if [ $? -ne 0 ]; then
+  echo "WARNING: failed to run commit message validation."
+fi
+
+exit 0;
