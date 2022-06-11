@@ -1,3 +1,4 @@
+![Status](https://github.com/dham6983/sample-commit-linting/actions/workflows/commitlint.yml/badge.svg)
 # What is this about
 This is a sample repo for testing commit linting using [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 ## How to test
@@ -9,7 +10,7 @@ This is a sample repo for testing commit linting using [Conventional Commits](ht
 
 For more details about conventional commit message, Please refer [this](https://www.conventionalcommits.org/en/v1.0.0/)
 
-# More ...
+# More .....
 1. To run typescript run `npm i -g typescript` , provide `npm` is already install on your workspace
 2. To compile and execute the project run `tsc && node ./dist/index.js`.
 3. To setup commit linting validation on CI platform using Circle CI , Github Action , Travis CI refer [this](https://commitlint.js.org/#/guides-ci-setup) doc.
