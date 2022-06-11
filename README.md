@@ -1,7 +1,7 @@
 # What is this about
 This is a sample repo for testing commit linting using [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 ## How to test
-1. clone the repo
+1. clone the repo inot your local workspace(laptop, VM, etc)
 2. run `yarn install`
 3. Make some changes in index.ts file
 4. Try to commit changes without conventional commit message. It will fail immediately.
